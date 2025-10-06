@@ -11,8 +11,8 @@ const projects = [
       "Personal portfolio website built using React and TailwindCSS showcasing projects, skills, and experience.",
     tech: ["React", "Custom CSS", "TailwindCSS", "JavaScript", "Vite"],
     image: portfolioImg,
-    live: "#",
-    code: "#",
+    live: "https://my-portfolio-one-gamma-81.vercel.app/",
+    code: "https://github.com/Ritupagar12/my-portfolio",
   },
   {
     id: 2,
