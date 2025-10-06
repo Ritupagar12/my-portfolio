@@ -4,7 +4,7 @@ Welcome to my personal portfolio! This project showcases my skills, experience, 
 
 ## 🚀 Live Demo
 
-Check out the live version of my portfolio here: 🌐 [My Portfolio](https://tic-tac-toe-sand-sigma.vercel.app/)
+Check out the live version of my portfolio here: 🌐 [My Portfolio](https://my-portfolio-one-gamma-81.vercel.app/)
 
 ## 🖥️ About This Project
 
