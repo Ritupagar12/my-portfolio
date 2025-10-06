@@ -4,7 +4,7 @@ Welcome to my personal portfolio! This project showcases my skills, experience, 
 
 ## 🚀 Live Demo
 
-Check out the live version of my portfolio here: 🌐 Portfolio Website
+Check out the live version of my portfolio here: 🌐 [My Portfolio](https://tic-tac-toe-sand-sigma.vercel.app/)
 
 ## 🖥️ About This Project
 
@@ -25,11 +25,9 @@ This portfolio is designed to highlight my work as a Software Engineer. It inclu
 ## 💡 Projects Highlighted
 1️⃣ Personal Portfolio Website
 - Responsive portfolio to showcase my work and skills.
-- Live Demo: 🌐 Link
 - Tech Stack: React, TailwindCSS, CSS
 2️⃣ Tic Tac Toe Game with AI
 - Browser-based Tic Tac Toe game with AI option.
-- Live Demo: 🌐 Link
 - Tech Stack: React, JavaScript, CSS
 3️⃣ NotesX App
 - Simple note-taking app with add & delete functionality.
