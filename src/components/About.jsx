@@ -27,15 +27,16 @@ const About = () => {
       role: "Software Engineer",
       company: "LTIMindtree",
       duration: "Dec 2023- Nov 2024",
-      details: "Worked on AEM forms development and support for the Ministry of Corporate Affairs project. Created detailed user flow documentation to streamline processes and collaborated closely with QA and UAT teams to ensure smooth deployment and quality delivery."
+      details: "Developed backend logic for dynamic offline form processing with Excel uploads, improving submission success and reducing support tickets. Implemented field-level validations in Spring Boot, integrated SQL database for data persistence, and created user flow documentation for Helpdesk and Feedback modules, helping frontend and middleware teams align and reducing QA/UAT testing time. Tech Stack: Java, Spring Boot, Angular, SQL, Aspose Cells"
+
     },
     {
       id: 2,
       role: "Graduate Trainee Engineer",
       company: "LTIMindtree",
       duration: "Sep 2023 - Dec 2023",
-      details: "Completed structured full stack Java training covering HTML, CSS, JavaScript, TypeScript, Angular, Spring Boot, Git, and Agile methodologies. Gained hands-on experience through practical projects and assignments to strengthen development skills."
-    },
+      details: "Completed intensive full-stack Java training and led a 4-member team to develop a full-featured E-Commerce website with authentication, product management, and order processing. Applied JUnit testing and Git version control, ensuring reliable, collaborative development.Tech Stack: Java, Spring Boot, Angular, SQL, Git, JUnit"
+    }
   ];
 
   const certificates = [
