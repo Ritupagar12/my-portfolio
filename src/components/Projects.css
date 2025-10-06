@@ -1,0 +1,116 @@
+.projects-section {
+  padding: 4rem 2rem;
+  background: linear-gradient(180deg, #f9f9f9, #e5e5e5);
+  color: #1f2937;
+  text-align: center;
+}
+
+.projects-section h2 {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.projects-section .subtitle {
+  font-size: 1.1rem;
+  color: #6b7280;
+  margin-bottom: 3rem;
+  font-style: italic;
+}
+
+.projects-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.project-card {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  border-radius: 1rem;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  width: 30%;
+  min-width: 280px;
+}
+
+.project-img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.project-card:hover .project-img {
+  transform: scale(1.05);
+}
+
+.project-content {
+  padding: 1rem;
+  flex-grow: 1;
+}
+
+.tech-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.tech-tag {
+  background-color: #e5e7eb;
+  color: #1f2937;
+  font-size: 0.8rem;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.5rem;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.button-container a {
+  flex: 1;
+  padding: 0.75rem 1rem;
+  border-radius: 9999px;
+  text-decoration: none;
+  text-align: center;
+  font-weight: 500;
+  box-sizing: border-box;
+}
+
+.btn-primary {
+  background-color: #1f2937;
+  color: white;
+}
+
+.btn-primary:hover {
+  background-color: #374151;
+}
+
+.btn-secondary {
+  background-color: transparent;
+  color: #1f2937;
+  border: 2px solid #1f2937;
+}
+
+.btn-secondary:hover {
+  background-color: #1f2937;
+  color: white;
+}
+
+@media (max-width: 1024px) {
+  .project-card {
+    width: 45%;
+  }
+}
+
+@media (max-width: 768px) {
+  .project-card {
+    width: 100%;
+  }
+}
