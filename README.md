@@ -1,44 +1,47 @@
-# Portfolio Website
+# 🌟 Ritu Pagar - Personal Portfolio
 
-Personal portfolio website built with React and TailwindCSS.  
-Showcases projects, skills, experience, and contact information.
+Welcome to my personal portfolio! This project showcases my skills, experience, and projects in a clean, modern, and responsive design.
 
-## Features
+## 🚀 Live Demo
 
-- Modern responsive design
-- Projects section with live demos and code links
-- Tech stack display
-- Experience and certificates tabs
-- Smooth scroll and subtle animations
+Check out the live version of my portfolio here: 🌐 Portfolio Website
 
-## Built With
+## 🖥️ About This Project
 
-- React
-- TailwindCSS
-- Vite (for React bundling)
-- Git & GitHub
+This portfolio is designed to highlight my work as a Software Engineer. It includes interactive sections, smooth navigation, and a professional layout to present my skills and projects effectively.
 
-## Live Demo
+## 🚀 Key Features:
+- 🎯 Hero section with tagline and quick navigation.
+- 🧑‍💻 About Me section with profile, experience, and tech stack.
+- 💼 Projects section with live demos and GitHub links.
+- 📜 Certificates section.
+- 📩 Contact section with links to GitHub, LinkedIn, and a contact form.
 
-[Add your live URL here]()
+## 🛠️ Technologies Used
+- Frontend: React, CSS, TailwindCSS, Vite
+- Icons & Graphics: React Icons
+- Deployment: Vercel 
 
-## Project Structure
+## 💡 Projects Highlighted
+1️⃣ Personal Portfolio Website
+- Responsive portfolio to showcase my work and skills.
+- Live Demo: 🌐 Link
+- Tech Stack: React, TailwindCSS, CSS
+2️⃣ Tic Tac Toe Game with AI
+- Browser-based Tic Tac Toe game with AI option.
+- Live Demo: 🌐 Link
+- Tech Stack: React, JavaScript, CSS
+3️⃣ NotesX App
+- Simple note-taking app with add & delete functionality.
+- Tech Stack: React, CSS
 
-/src
-/assets - images and certificates
-/components - React components
-App.jsx
-index.jsx
-/public
-index.html
-package.json
-README.md
+## 🚀 How to Run
 
-## How to Run
-```bash
 # Install dependencies
+```bash
 npm install
 ```
 # Run Locally
+```bash
 npm start
-
+```
