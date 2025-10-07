@@ -28,11 +28,11 @@ const projects = [
     id: 3,
     title: "NoteX App",
     description:
-      "Note-taking application built using React and CSS. Allows creating, editing, and deleting notes efficiently.",
-    tech: ["React", "HTML", "CSS", "JavaScript", "LocalStorage API"],
+      "Note-taking application built using MERN stack. Allows creating, editing, and deleting notes efficiently.",
+    tech: ["MERN Stack", "HTML", "CSS", "JavaScript", "Axios"],
     image: notexImg,
-    live: "https://notex-react-app.vercel.app/",
-    code: "https://github.com/Ritupagar12/Notex-React_App",
+    live: "https://notex-app-fe.onrender.com/",
+    code: "https://github.com/Ritupagar12/NoteX-App",
   },
 ];
 
