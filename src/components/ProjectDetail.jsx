@@ -1,6 +1,6 @@
 import React from "react";
 import { useParams, Link, useNavigate } from "react-router-dom";
-import projects from "./projectsData";
+import projects from "./ProjectsData";
 
 const ProjectDetail = () => {
   const navigate = useNavigate();
