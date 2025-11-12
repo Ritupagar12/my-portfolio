@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { useParams, Link, useNavigate } from "react-router-dom";
 import projects from "./ProjectsData";
 
@@ -7,6 +7,10 @@ const ProjectDetail = () => {
   const { id } = useParams();
   const project = projects.find((p) => p.id === parseInt(id));
 
+  useEffect(() => {
+    window.scrollTo({top: 0, behavior:"smooth"});
+  }, []);
+  
   const handleBack = () => {
     navigate("/");
     setTimeout(() => {
